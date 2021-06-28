@@ -1,2 +1,2 @@
-# LeaningWin32
-Win32
+# LeaningWin32Cancel changes
+win32 test file
